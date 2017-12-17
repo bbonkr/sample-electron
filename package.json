@@ -1,0 +1,22 @@
+{
+  "name": "sample-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbonkr/sample-electron.git"
+  },
+  "author": "Pon Cheol Ku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbonkr/sample-electron/issues"
+  },
+  "homepage": "https://github.com/bbonkr/sample-electron#readme",
+  "devDependencies": {
+    "electron": "1.7.9"
+  }
+}
